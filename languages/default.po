@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Tabs Widget Plugin\n"
+"POT-Creation-Date: 2017-05-30 14:37+0700\n"
+"PO-Revision-Date: 2017-05-30 14:37+0700\n"
+"Last-Translator: \n"
+"Language-Team: WPMagTheme <contact@wpmagtheme.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: smart-tab-widget.php:26
+msgid "Display popular posts, recent posts, comments, and tags in tabbed format."
+msgstr ""
+
+#: smart-tab-widget.php:28
+msgid "Smart Tab Widget"
+msgstr ""
+
+#: smart-tab-widget.php:86
+msgid "Select tabs to show"
+msgstr ""
+
+#: smart-tab-widget.php:91
+msgid "Popular Tab"
+msgstr ""
+
+#: smart-tab-widget.php:95
+msgid "Recent Tab"
+msgstr ""
+
+#: smart-tab-widget.php:99
+msgid "Comments Tab"
+msgstr ""
+
+#: smart-tab-widget.php:103
+msgid "Tags Tab"
+msgstr ""
+
+#: smart-tab-widget.php:108
+msgid "Order Options"
+msgstr ""
+
+#: smart-tab-widget.php:114 smart-tab-widget.php:293
+msgid "Popular"
+msgstr ""
+
+#: smart-tab-widget.php:118 smart-tab-widget.php:294
+msgid "Recent"
+msgstr ""
+
+#: smart-tab-widget.php:122 smart-tab-widget.php:295 smart-tab-widget.php:416
+#: smart-tab-widget.php:456
+msgid "Comments"
+msgstr ""
+
+#: smart-tab-widget.php:126 smart-tab-widget.php:296
+msgid "Tags"
+msgstr ""
+
+#: smart-tab-widget.php:131
+msgid "Post Options"
+msgstr ""
+
+#: smart-tab-widget.php:137
+msgid "Enable pagination"
+msgstr ""
+
+#: smart-tab-widget.php:141
+msgid "Pagination type:"
+msgstr ""
+
+#: smart-tab-widget.php:143
+msgid "Default ( Next/Prev )"
+msgstr ""
+
+#: smart-tab-widget.php:144
+msgid "Infinite ( Load More )"
+msgstr ""
+
+#: smart-tab-widget.php:149
+msgid "Number of posts to show:"
+msgstr ""
+
+#: smart-tab-widget.php:154
+msgid "Title length (words):"
+msgstr ""
+
+#: smart-tab-widget.php:162
+msgid "Show post thumbnails"
+msgstr ""
+
+#: smart-tab-widget.php:167
+msgid "Thumbnail size:"
+msgstr ""
+
+#: smart-tab-widget.php:169
+msgid "Small"
+msgstr ""
+
+#: smart-tab-widget.php:170
+msgid "Medium"
+msgstr ""
+
+#: smart-tab-widget.php:171
+msgid "Large"
+msgstr ""
+
+#: smart-tab-widget.php:178
+msgid "Show datetime"
+msgstr ""
+
+#: smart-tab-widget.php:185
+msgid "Show comments count"
+msgstr ""
+
+#: smart-tab-widget.php:192
+msgid "Show Author"
+msgstr ""
+
+#: smart-tab-widget.php:199
+msgid "Show excerpt"
+msgstr ""
+
+#: smart-tab-widget.php:204
+msgid "Excerpt length (words):"
+msgstr ""
+
+#: smart-tab-widget.php:212
+msgid "Show icon post meta"
+msgstr ""
+
+#: smart-tab-widget.php:220
+msgid "Comment Tab Options"
+msgstr ""
+
+#: smart-tab-widget.php:224
+msgid "Number of comments to show:"
+msgstr ""
+
+#: smart-tab-widget.php:231
+msgid "Show avatars"
+msgstr ""
+
+#: smart-tab-widget.php:238
+msgid "Popular Tab Options"
+msgstr ""
+
+#: smart-tab-widget.php:241
+msgid "Post Duration:"
+msgstr ""
+
+#: smart-tab-widget.php:243
+msgid "All time"
+msgstr ""
+
+#: smart-tab-widget.php:244
+msgid "Last 30 days"
+msgstr ""
+
+#: smart-tab-widget.php:245
+msgid "Last 7 days"
+msgstr ""
+
+#: smart-tab-widget.php:335
+msgid "Prev"
+msgstr ""
+
+#: smart-tab-widget.php:336
+msgid "Next"
+msgstr ""
+
+#: smart-tab-widget.php:340
+msgid "Load more"
+msgstr ""
+
+#: smart-tab-widget.php:416 smart-tab-widget.php:456
+msgid "No Comment"
+msgstr ""
+
+#: smart-tab-widget.php:416 smart-tab-widget.php:456
+msgid "1 Comment"
+msgstr ""
+
+#: smart-tab-widget.php:497
+msgid "in"
+msgstr ""
+
+#: smart-tab-widget.php:518
+msgid "No tags created."
+msgstr ""

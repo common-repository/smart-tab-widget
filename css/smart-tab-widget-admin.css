@@ -1,0 +1,13 @@
+
+.wmt_tab_header a {
+	display: block; 
+	background: #f0f0f0;
+	color: #23282d;
+	text-align: center;
+	padding: 10px;
+	text-decoration: none;
+	border: 1px solid #eaeaea;
+}
+.wmt_tab_header a:hover {  
+	border: 1px solid #888888;
+}
